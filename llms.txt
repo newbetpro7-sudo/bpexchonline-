@@ -1,0 +1,28 @@
+# BPExchOnline (bpexchonline.com)
+
+Pakistan service desk for BPExch (the betting exchange also known by its earlier name, BetPro Exchange).
+Facts: accounts and IDs are free, issued by the desk via WhatsApp in ~2 minutes; minimum deposit Rs 500;
+minimum withdrawal Rs 1,000; payments by Easypaisa, JazzCash and bank transfer (IBFT/Raast); one account
+covers the exchange, live casino and Android app; account types: user, dealer, master, super master;
+support 24/7 in Urdu and English; desk never requests passwords, wallet PINs or OTPs.
+
+## Key pages
+- / — homepage and desk overview
+- /bpexch-account — how to open a free BPExch account in Pakistan
+- /bpexch-id — BPExch ID (username) rules and recovery
+- /bpexch-login — sign-in address checks, lockout fixes, clone-page safety
+- /bpexch-password-reset — free password recovery through the desk
+- /bpexch-deposit — deposit guide (Easypaisa, JazzCash, bank)
+- /bpexch-withdrawal — payout guide and timings
+- /bpexch-app — Android app download and install safety
+- /what-is-bpexch — what the exchange is, in plain words
+- /how-it-works — back, lay, the odds ladder, liability and commission
+- /bpexch-account-types — user, dealer, master, super master tiers
+- /bpexch-odds-calculator — back/lay calculator with commission slider, green-up and market-shorthand odds
+- /bpexch-demo-account — test a real account at zero balance before funding
+- /bpexch-cricket — PSL/international cricket, session and fancy markets, settlement rules
+- /bpexch-login-link — how to get the current genuine login address from the desk
+- /compare — the niche's account providers named and compared (bpexch-pakistan.pk, betproidpakistan.com, bpexchaccounts.com, casino clones)
+- /blog — problem-led guides: deposit not credited, withdrawal not received and timings, statement reading, commission, sessions, back & lay, dealer silence, login link today, Easypaisa vs JazzCash, BetPro ID kaise banaye, PSL betting, best account provider compared, online vs walk-in dealers
+- Media: explainer videos on key pages, a 30–50s audio summary on every main page, every city page and the newest guides, and 4 downloadable PDF guides under /assets/pdf/
+- /city/<city> — city pages for Karachi, Lahore, Islamabad, Rawalpindi, Faisalabad, Multan, Peshawar, Quetta, Gujranwala, Hyderabad, Sialkot, Sargodha, Bahawalpur, Sukkur, Larkana
